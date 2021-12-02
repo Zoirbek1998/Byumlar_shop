@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "465421263528",
+    "project_id": "ollineshopping-30fcb",
+    "storage_bucket": "ollineshopping-30fcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465421263528:android:acf59cc78245871122d89d",
+        "android_client_info": {
+          "package_name": "com.example.buyumlar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465421263528-j544rnrumsb18o7f9khvfq6fbm0gepql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbthk8nbpsbSEsDZZTCmEIyzfz7bUdj1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465421263528-j544rnrumsb18o7f9khvfq6fbm0gepql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465421263528:android:40fe498d5ab37ef022d89d",
+        "android_client_info": {
+          "package_name": "com.example.ollineshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465421263528-j544rnrumsb18o7f9khvfq6fbm0gepql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbthk8nbpsbSEsDZZTCmEIyzfz7bUdj1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465421263528-j544rnrumsb18o7f9khvfq6fbm0gepql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

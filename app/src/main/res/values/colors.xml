@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0CECDA</color>
+    <color name="colorPrimaryDark">#07887E</color>
+    <color name="button">#0CECDA</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="slayder_textcolor">#6C6B6B</color>
+    <color name="text_color">#373636</color>
+</resources>
